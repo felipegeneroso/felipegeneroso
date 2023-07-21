@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**felipegeneroso/felipegeneroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Felipe Aguiar Generoso, sou programador Front End, atualmente estou aprendendo e criando projetos com:
+<br/>
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white-HTML" alt="html-logo" />
+<br/>
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
+<br/>
+Em andamento estou estudando sobre JavaScript e React (Curso DevClub)
+<br/>
+Trabalhando atualmente em informática:
+<br/>
+-Suporte tecnico publico;
+<br/>
+-Manutenção de computadores;
+<br/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Felipe Generoso GitHub stats](https://github-readme-stats.vercel.app/api?username=felipegeneroso)](https://github.com/anuraghazra/github-readme-stats)
